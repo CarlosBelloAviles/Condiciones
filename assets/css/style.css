@@ -1,0 +1,41 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+
+
+#imagen{
+   
+    width: 400px;
+    height: 300px;
+    
+}
+
+
+/* ejercico dos */
+
+.stickers{
+    display: flex;
+    gap: 40px;
+}
+
+.sticker{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.paginas{
+    display: flex;
+    gap: 40px;
+}
